@@ -82,4 +82,11 @@ It intentionally does not reproduce full reference speeches.
 
 ## License
 
-Add a license that fits your intended use before publishing publicly.
+This project is dual-licensed under the **Apache License 2.0** or the
+**GNU General Public License v3.0**, at your option.
+
+See:
+- `LICENSES/Apache-2.0.txt`
+- `LICENSES/GPL-3.0-only.txt`
+
+SPDX-License-Identifier: Apache-2.0 OR GPL-3.0-only
